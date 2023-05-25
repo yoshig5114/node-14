@@ -30,3 +30,8 @@ button:focus {
   outline: none;
   border-color: #8ac4ff;
 }
+
+a:visited{
+  font-size: 190%;
+  background-color: black;
+}
